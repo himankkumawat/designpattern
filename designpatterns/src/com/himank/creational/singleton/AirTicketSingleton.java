@@ -1,4 +1,4 @@
-package com.himank.creational;
+package com.himank.creational.singleton;
 
 import java.io.Serializable;
 
